@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Add readable time to Jira
+// @name         Add readable time to Tempo Jira extension
 // @namespace    https://github.com/GoZOo
 // @version      0.1
 // @description  Display readable hours minutes time to Tempo Jira extension
