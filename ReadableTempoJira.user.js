@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Display readable hours minutes time to Tempo Jira extension
 // @author       Fabien Clément
-// @match        https://*.atlassian.net/secure/TempoUserBoard!timesheet.jspa?*
+// @match        https://*.atlassian.net/secure/TempoUserBoard!timesheet.jspa*
 // @updateURL    https://raw.githubusercontent.com/GoZOo/ReadableTempoJira/master/ReadableTempoJira.js
 // @downloadURL  https://raw.githubusercontent.com/GoZOo/ReadableTempoJira/master/ReadableTempoJira.js
 // @grant        none
